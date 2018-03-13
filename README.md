@@ -6,5 +6,5 @@ The repository contains two Jupyter Notebooks, each describing a different web s
 
 ## Licence
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE.txt).
 
